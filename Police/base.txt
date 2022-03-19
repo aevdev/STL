@@ -1,0 +1,3 @@
+a001ss:	4 Lenina and Oktyabrya crossroad, 3 Oktyabrya street;
+a557ab:	5 Kosmonavtov street;
+a777km:	1 Lenin street, 2 Frunze street;
